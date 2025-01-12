@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/news/2025-01-12-init-news/</loc>
+<lastmod>2025-01-12T09:00:01+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/2025/init-blog/</loc>
+<lastmod>2025-01-12T09:00:01+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/cv</loc>
+</url>
+<url>
+<loc>http://localhost:4000/projects/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/tag/etc/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/category/casual/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/2025/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/</loc>
+</url>
+</urlset>
