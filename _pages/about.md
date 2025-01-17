@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Robotics Manipulation, Task and Motion Planning, Robitcs Learning
+subtitle: Robotics Manipulation, Task and Motion Planning, Robot Learning
 
 profile:
   align: right
